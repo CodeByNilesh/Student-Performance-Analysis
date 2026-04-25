@@ -73,7 +73,8 @@ Key Findings:
 - Internal marks significantly impact final exam scores.
 <img width="1017" height="631" alt="Graph1" src="https://github.com/user-attachments/assets/f5f1efeb-1cf0-45cd-8e93-bdf091d69f47" /><br>
 <img width="1040" height="637" alt="Graph2" src="https://github.com/user-attachments/assets/9095bf35-6653-475a-9609-74383e80cc96" /><br>
-<img width="1040" height="637" alt="Graph2" src="https://github.com/user-attachments/assets/d2546d08-75d8-42de-961b-13407fefc4be" /><br>
+<img width="1073" height="719" alt="HeatMap" src="https://github.com/user-attachments/assets/00c20aaa-a46a-413e-84d0-fad7611721a8" />
+<br>
 
 ---
 
