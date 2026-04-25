@@ -33,6 +33,10 @@ https://forms.gle/VbTgE8rMVxEef9Hg7
 - Internet Usage
 - Coaching Classes
 - Final Exam Result (%)
+<img width="1905" height="914" alt="Response Dashboard" src="https://github.com/user-attachments/assets/4ecdf16c-8d08-438c-b4d4-8ab636a95fa9" /><br>
+<img width="1890" height="855" alt="Response Sheet" src="https://github.com/user-attachments/assets/a0fc4431-497e-4786-861d-633bf977e2f9" /><br>
+<img width="1895" height="856" alt="Student Raw Data" src="https://github.com/user-attachments/assets/c0c59c0f-0822-4956-94ba-368880583eec" /><br>
+
 
 Total Responses Collected: 15  
 Final Cleaned Records Used: 9
@@ -49,6 +53,7 @@ Steps Performed:
 - Removal of duplicate records
 
 The cleaned dataset was used for analysis and model training.
+<img width="1892" height="869" alt="Student Cleaned Data" src="https://github.com/user-attachments/assets/ce254fdb-9d70-4049-a00a-673334b2dbff" /><br>
 
 ---
 
@@ -66,6 +71,9 @@ Key Findings:
 - Study hours positively influence final results.
 - Attendance percentage shows strong correlation with performance.
 - Internal marks significantly impact final exam scores.
+<img width="1017" height="631" alt="Graph1" src="https://github.com/user-attachments/assets/f5f1efeb-1cf0-45cd-8e93-bdf091d69f47" /><br>
+<img width="1040" height="637" alt="Graph2" src="https://github.com/user-attachments/assets/9095bf35-6653-475a-9609-74383e80cc96" /><br>
+<img width="1040" height="637" alt="Graph2" src="https://github.com/user-attachments/assets/d2546d08-75d8-42de-961b-13407fefc4be" /><br>
 
 ---
 
@@ -73,6 +81,7 @@ Key Findings:
 
 ### Model Used:
 ✅ Linear Regression
+<img width="1081" height="709" alt="Model Building" src="https://github.com/user-attachments/assets/932be92d-9e5a-455c-bde8-2c485d3b8656" /><br>
 
 ### Steps Performed:
 - Feature selection
@@ -101,23 +110,6 @@ The model demonstrated satisfactory predictive performance based on the availabl
 - Seaborn
 - Scikit-learn
 - GitHub
-
----
-
-## 📂 Project Structure
-Student-Performance-Analysis/
-│
-├── student_raw_data.xlsx
-├── student_cleaned_data.xlsx
-├── student_performance_model.ipynb
-├── screenshots/
-│ ├── form.png
-│ ├── raw_data.png
-│ ├── cleaning.png
-│ ├── graphs.png
-│ └── model_output.png
-└── README.md
-
 
 ---
 
